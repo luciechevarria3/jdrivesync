@@ -17,6 +17,7 @@
         <github.project>jdrivesync</github.project>
         <sonar.organization>luciechevarria3</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  		<sonar.login>13b20e06c9201ddbb21408ea9a94bc1c32faf400</sonar.login>
     </properties>
 
 	<licenses>
